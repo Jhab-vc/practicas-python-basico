@@ -7,7 +7,6 @@ Este repositorio contiene mis ejercicios prácticos mientras uso Python.
 - Condicionales (if/else)
 - Bucles (for/while)
 - Funciones basicas
-- Ejercicios en progreso
 
 ## 🎯 Objetivo
 Practicar lógica de programación y llevar un registro de mi aprendizaje.
