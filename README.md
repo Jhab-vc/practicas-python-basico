@@ -5,7 +5,8 @@ Este repositorio contiene mis ejercicios prácticos mientras uso Python.
 ## 📚 Contenido
 - Variables y tipos de datos
 - Condicionales (if/else)
-- Bucles (for/while)
+- Estructuras de control (for/while)
+- Estrucuturas de datos
 - Funciones basicas
 
 ## 🎯 Objetivo
